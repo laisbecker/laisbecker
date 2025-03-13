@@ -7,7 +7,6 @@ Tenho 23 anos e moro em Santa Catarina. Atualmente, estou cursando Análise e De
 Compartilho aqui minha jornada de aprendizado contínuo em tecnologia, sinta-se a vontade para entrar em contato comigo sobre projetos e oportunidades.
 
 ---
-[![Skyline](https://skyline.github.com/seu-user/2023.svg)](https://skyline.github.com/laisbecker/2023)
 ### 🤖 Linguagens e Tecnologias
 
 <img 
