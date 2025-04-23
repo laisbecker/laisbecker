@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack em formação`**
 
 Eu sou a Laís! 
-Tenho 23 anos e moro em Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, e finalizando o curso intensivo de FullStack pelo DevInHouse - SENAI. 
+Tenho 24 anos e moro em Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, e finalizando o curso intensivo de FullStack pelo DevInHouse - SENAI. 
 Compartilho aqui minha jornada de aprendizado contínuo em tecnologia, sinta-se a vontade para entrar em contato comigo sobre projetos e oportunidades.
 
 ---
